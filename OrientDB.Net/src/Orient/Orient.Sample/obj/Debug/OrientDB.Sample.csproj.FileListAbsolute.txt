@@ -1,0 +1,8 @@
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\bin\Debug\OrientDB.exe.config
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\obj\Debug\OrientDB.exe
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\obj\Debug\OrientDB.pdb
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\bin\Debug\OrientDB.exe
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\bin\Debug\OrientDB.pdb
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\bin\Debug\Orient.Client.dll
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\bin\Debug\Orient.Client.pdb
+D:\Code\OrientDB\OrientDB.Net\src\Orient\Orient.Sample\obj\Debug\OrientDB.Sample.csprojResolveAssemblyReference.cache

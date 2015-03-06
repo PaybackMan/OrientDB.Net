@@ -1,0 +1,8 @@
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\bin\Debug\OrientDB.exe.config
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\bin\Debug\OrientDB.exe
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\bin\Debug\OrientDB.pdb
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\bin\Debug\Orient.Client.dll
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\obj\Debug\OrientDB.csprojResolveAssemblyReference.cache
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\obj\Debug\OrientDB.exe
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\obj\Debug\OrientDB.pdb
+c:\users\billb\documents\visual studio 2013\Projects\OrientDB\OrientDB\bin\Debug\Orient.Client.pdb

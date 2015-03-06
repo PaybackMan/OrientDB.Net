@@ -1,0 +1,7 @@
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\bin\Debug\Orient.Tests.dll
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\bin\Debug\Orient.Tests.pdb
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\bin\Debug\Orient.Client.dll
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\bin\Debug\Orient.Client.pdb
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\obj\Debug\Orient.Tests.csprojResolveAssemblyReference.cache
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\obj\Debug\Orient.Tests.dll
+D:\Code\OrientDB\OrientDB-NET.binary\src\Orient\Orient.Tests\obj\Debug\Orient.Tests.pdb
